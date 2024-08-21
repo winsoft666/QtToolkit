@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Sample">
+        <file>image/ad1.jpeg</file>
+        <file>image/ad2.jpeg</file>
+        <file>image/ad3.png</file>
+        <file>image/gril.png</file>
+        <file>image/NinePatchTest.png</file>
+        <file>audio_data/data1.txt</file>
+        <file>audio_data/data2.txt</file>
+        <file>audio_data/data3.txt</file>
+        <file>image/logo.png</file>
+        <file>image/pubg.png</file>
+    </qresource>
+</RCC>
